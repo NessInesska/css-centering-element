@@ -1,0 +1,9 @@
+.outer {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.inner {
+    display: inline-block;
+}
